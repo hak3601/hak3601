@@ -75,5 +75,5 @@ In addition to my research, I am passionate about:
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile" alt="Footer Image"> <!-- Replace with your footer image link -->
+  <img src="https://github.com/hak3601/hak3601/blob/main/Picture1.png" alt="Footer Image"> <!-- Replace with your footer image link -->
 </p>
