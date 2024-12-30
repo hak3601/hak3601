@@ -74,6 +74,6 @@ In addition to my research, I am passionate about:
 
 ---
 
-<div align="center">
-  ![Footer Image]() <!-- Replace with your footer image link -->
-</div>
+<p align="center">
+  <img src="https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile" alt="Footer Image"> <!-- Replace with your footer image link -->
+</p>
