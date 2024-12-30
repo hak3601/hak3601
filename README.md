@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your banner image link -->
-
----
-
 ## About Me 👨‍💻
 
 ### Research Interests
@@ -11,7 +7,7 @@ I am currently studying **Computer Science and Engineering** at Chung-Ang Univer
 
 - **Data Mining**: Developing scalable and efficient models to extract meaningful insights from large datasets.
 - **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
-- **Large Language Models (LLMs)**: Fine-tuning LLMs for domain-specific problems.
+- **Large Language Models (LLMs)**: Exploring how LLMs can be applied to graphs or graph data to uncover new insights and enable advanced applications.
 - **Human-Computer Interaction (HCI)**: Creating user-centric, data-informed systems to address real-world social challenges.
 
 ### Personal Interests
@@ -41,7 +37,7 @@ In addition to my research, I am passionate about:
 ## 🌟 Current Focus
 
 - Building advanced models for **Recommender Systems**.
-- Fine-tuning techniques for **LLMs** to address domain-specific challenges.
+- Investigating how **LLMs** can be utilized in **graph-based applications** for novel insights and solutions.
 - Exploring **HCI-driven solutions** to improve technology's impact on society.
 - Contributing to impactful and collaborative tech projects.
 
@@ -64,8 +60,7 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-**Coming Soon**
-
+      Coming Soon...
 ---
 
 ## 💡 Fun Facts
