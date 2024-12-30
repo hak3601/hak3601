@@ -60,7 +60,7 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-### 🎓 [University Exam Management System - UXAM]((https://github.com/hak3601/OOP-course))
+### 🎓 [University Exam Management System - UXAM](https://github.com/hak3601/OOP-course.git)
 A software system designed to simplify online exams and training for both students and professors using C++ and OOP principles. (Year 2 - Team Project)
 
 **Highlights:**
