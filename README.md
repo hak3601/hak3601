@@ -47,9 +47,8 @@ In addition to Data Mining, I have a strong interest in **Human-Computer Interac
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com) <!-- Replace with your email -->
-- **LinkedIn:** [Your Name](https://linkedin.com/in/YourLinkedIn) <!-- Replace with your LinkedIn profile link -->
-- **Personal Portfolio:** [yourwebsite.com](https://yourwebsite.com) <!-- Replace with your portfolio link -->
+- **Email:** [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
+- **LinkedIn:** [HTET ARKAR](https://linkedin.com/in/h-arkar) <!-- Replace with your LinkedIn profile link -->
 
 ---
 
@@ -70,7 +69,10 @@ Overview of this project, emphasizing your role and achievements.
 
 - 🚀 I enjoy solving challenging problems in AI and exploring new research fields.
 - 🌱 Currently learning advanced optimization techniques for ML models.
-- 🎨 Outside of tech, I love **designing** and **reading about psychology**.
+- ☕ I love exploring cafes and tasting different coffee beans.
+- 📸 Photography is one of my favorite hobbies.
+- 🎬 I enjoy watching movies, taking walks, and connecting with nature.
+- 🌟 My diverse hobbies keep me inspired and balanced.
 
 ---
 
