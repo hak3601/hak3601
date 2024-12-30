@@ -58,6 +58,14 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
+### 📖 [My Paper Reviews](https://github.com/hak3601/paper-review.git)
+A collection of reviews of the research papers I have studied, documented as PowerPoint slides.
+
+**Highlights:**
+- Organized and documented summaries of various research papers for note-taking and presentations.
+- Provided insights and analyses of methodologies and findings.
+- Used regularly in lab seminars to facilitate knowledge sharing.
+
 ### 🎓 [University Exam Management System - UXAM](https://github.com/hak3601/OOP-course.git)
 A software system designed to simplify online exams and training for both students and professors using C++ and OOP principles. (Year 2 - Team Project)
 
