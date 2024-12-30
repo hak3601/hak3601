@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
----
+
 ## About Me 👨‍💻
 
 ### Research Interests
@@ -67,7 +67,8 @@ A software system designed to simplify online exams and training for both studen
 - Implemented a dynamic difficulty engine (DDE) to adjust question difficulty based on student performance.
 - Enabled professors to create exams and monitor their progress effortlessly.
 - Provided students with tools to take exams, train for exams, and create practice exams for peers.
-### 🔍 Comming Soon...
+
+#### 🔍 Comming Soon...
 
 ---
 
