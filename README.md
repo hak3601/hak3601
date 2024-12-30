@@ -60,6 +60,13 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
+### 🎓 [University Exam Management System - UXAM]((https://github.com/hak3601/OOP-course))
+A software system designed to simplify online exams and training for both students and professors using C++ and OOP principles. (Year 2 - Team Project)
+
+**Highlights:**
+- Implemented a dynamic difficulty engine (DDE) to adjust question difficulty based on student performance.
+- Enabled professors to create exams and monitor their progress effortlessly.
+- Provided students with tools to take exams, train for exams, and create practice exams for peers.
 ### 🔍 Comming Soon...
 
 ---
