@@ -75,7 +75,7 @@ A software system designed to simplify online exams and training for both studen
 - Provided students with tools to take exams, train for exams, and create practice exams for peers.
 
 ### 🎮 [HIM-24: Model-Based Game Difficulty Optimization](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
-A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience.
+A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
 
 **Highlights:**
 - Developed a predictive model to adjust game difficulty dynamically based on player performance.
