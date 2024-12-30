@@ -64,26 +64,7 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-### 🔍 [Personalized Recommendation Engine](https://github.com/YourUsername/RecommendationEngine)
-A recommendation system designed to provide tailored suggestions based on user preferences and behavior. 
-
-**Highlights:**
-- Implemented collaborative filtering and content-based approaches.
-- Achieved high scalability for real-time recommendations.
-
-### 🤖 [LLM Fine-Tuning Toolkit](https://github.com/YourUsername/LLMToolkit)
-A comprehensive toolkit for fine-tuning large language models on domain-specific datasets.
-
-**Highlights:**
-- Integrated popular frameworks like Hugging Face Transformers.
-- Designed pre-processing pipelines for optimal performance.
-
-### 🧐 [Social Impact Data Analysis](https://github.com/YourUsername/SocialImpactAnalysis)
-A project that leverages data mining and HCI principles to analyze and address social challenges.
-
-**Highlights:**
-- Developed interactive dashboards for actionable insights.
-- Conducted in-depth analysis on real-world datasets.
+**Coming Soon**
 
 ---
 
