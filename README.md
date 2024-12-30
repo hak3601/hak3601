@@ -6,11 +6,19 @@
 
 ## About Me 👨‍💻
 
-I am a **Computer Science and Engineering** undergraduate and a **Research Intern** at the **DMAIS Lab**, focusing on **Data Mining**, **Recommender Systems**, **Large Language Models (LLMs)**, and **Human-Computer Interaction (HCI)**. 
+### Research Interests
+I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. My primary focus lies in:
 
-My current research explores how to extract meaningful insights from complex datasets to build efficient and scalable recommendation models. By leveraging techniques in data mining and machine learning, I aim to enhance user experiences through personalized recommendations, tackling challenges such as large-scale data processing and real-time recommendation generation.
+- **Data Mining**: Developing scalable and efficient models to extract meaningful insights from large datasets.
+- **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
+- **Large Language Models (LLMs)**: Fine-tuning LLMs for domain-specific problems.
+- **Human-Computer Interaction (HCI)**: Creating user-centric, data-informed systems to address real-world social challenges.
 
-In addition to Data Mining, I have a strong interest in **Human-Computer Interaction (HCI)**, particularly in its potential to solve social problems through data-driven solutions. I am fascinated by how HCI can optimize the way humans interact with technology, and how this can be applied to design systems that address real-world social issues. I am especially keen on developing user-centric, data-informed systems that foster better decision-making and enhance societal well-being.
+### Personal Interests
+In addition to my research, I am passionate about:
+- ☕ Exploring cafes and tasting different coffee beans.
+- 📸 Photography to capture moments and connect with nature.
+- 🎥 Watching movies and taking reflective walks to stay inspired.
 
 ---
 
@@ -25,6 +33,7 @@ In addition to Data Mining, I have a strong interest in **Human-Computer Interac
 ### Tools and Frameworks
 - **TensorFlow**
 - **PyTorch**
+- **Scikit-learn**, **pandas**, **NumPy**
 - **Git/GitHub**
 
 ---
@@ -32,12 +41,13 @@ In addition to Data Mining, I have a strong interest in **Human-Computer Interac
 ## 🌟 Current Focus
 
 - Building advanced models for **Recommender Systems**.
-- Exploring fine-tuning techniques for **LLMs** to solve domain-specific problems.
-- Contributing to projects that make a meaningful impact in the tech community.
+- Fine-tuning techniques for **LLMs** to address domain-specific challenges.
+- Exploring **HCI-driven solutions** to improve technology's impact on society.
+- Contributing to impactful and collaborative tech projects.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) <!-- Replace `YourUsername` with your GitHub username -->
 
@@ -45,34 +55,45 @@ In addition to Data Mining, I have a strong interest in **Human-Computer Interac
 
 ---
 
-## 📫 How to Reach Me
+## 📢 How to Reach Me
 
-- **Email:** [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
-- **LinkedIn:** [HTET ARKAR](https://linkedin.com/in/h-arkar) <!-- Replace with your LinkedIn profile link -->
+- **Email**: [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
+- **LinkedIn**: [HTET ARKAR](https://linkedin.com/in/h-arkar) <!-- Replace with your LinkedIn profile link -->
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔍 [Project Name 1](https://github.com/YourUsername/ProjectName1)
-A brief description of the project. Highlight key features or its impact.
+### 🔍 [Personalized Recommendation Engine](https://github.com/YourUsername/RecommendationEngine)
+A recommendation system designed to provide tailored suggestions based on user preferences and behavior. 
 
-### 🤖 [Project Name 2](https://github.com/YourUsername/ProjectName2)
-Another brief description. Explain its relevance or uniqueness.
+**Highlights:**
+- Implemented collaborative filtering and content-based approaches.
+- Achieved high scalability for real-time recommendations.
 
-### 🧠 [Project Name 3](https://github.com/YourUsername/ProjectName3)
-Overview of this project, emphasizing your role and achievements.
+### 🤖 [LLM Fine-Tuning Toolkit](https://github.com/YourUsername/LLMToolkit)
+A comprehensive toolkit for fine-tuning large language models on domain-specific datasets.
+
+**Highlights:**
+- Integrated popular frameworks like Hugging Face Transformers.
+- Designed pre-processing pipelines for optimal performance.
+
+### 🧐 [Social Impact Data Analysis](https://github.com/YourUsername/SocialImpactAnalysis)
+A project that leverages data mining and HCI principles to analyze and address social challenges.
+
+**Highlights:**
+- Developed interactive dashboards for actionable insights.
+- Conducted in-depth analysis on real-world datasets.
 
 ---
 
 ## 💡 Fun Facts
 
-- 🚀 I enjoy solving challenging problems in AI and exploring new research fields.
-- 🌱 Currently learning advanced optimization techniques for ML models.
-- ☕ I love exploring cafes and tasting different coffee beans.
-- 📸 Photography is one of my favorite hobbies.
-- 🎬 I enjoy watching movies, taking walks, and connecting with nature.
-- 🌟 My diverse hobbies keep me inspired and balanced.
+- 🚀 I enjoy solving challenging AI problems and exploring cutting-edge research.
+- 🌱 Currently learning advanced optimization techniques for machine learning models.
+- ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
+- 📸 Photography helps me find balance and stay creative.
+- 🎥 Movies and nature walks are my favorite ways to relax and recharge.
 
 ---
 
