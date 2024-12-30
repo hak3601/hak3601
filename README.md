@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-
+---
 ## About Me 👨‍💻
 
 ### Research Interests
@@ -60,7 +60,27 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-      Coming Soon...
+### 🔍 [Personalized Recommendation Engine](https://github.com/YourUsername/RecommendationEngine)
+A recommendation system designed to provide tailored suggestions based on user preferences and behavior. 
+
+**Highlights:**
+- Implemented collaborative filtering and content-based approaches.
+- Achieved high scalability for real-time recommendations.
+
+### 🤖 [LLM Applications in Graphs](https://github.com/YourUsername/LLMGraphs)
+A project focused on leveraging large language models to analyze and derive insights from graph-based data.
+
+**Highlights:**
+- Developed workflows to integrate LLMs with graph neural networks.
+- Enhanced graph embeddings with natural language processing techniques.
+
+### 🧐 [Social Impact Data Analysis](https://github.com/YourUsername/SocialImpactAnalysis)
+A project that leverages data mining and HCI principles to analyze and address social challenges.
+
+**Highlights:**
+- Developed interactive dashboards for actionable insights.
+- Conducted in-depth analysis on real-world datasets.
+
 ---
 
 ## 💡 Fun Facts
@@ -73,4 +93,6 @@ In addition to my research, I am passionate about:
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile) <!-- Replace with your footer image link -->
+<div align="center">
+  ![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile) <!-- Replace with your footer image link -->
+</div>
