@@ -45,9 +45,7 @@ In addition to my research, I am passionate about:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hak3601&show_icons=true&theme=radical) <!-- Replace `YourUsername` with your GitHub username -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hak3601&layout=compact&theme=radical) <!-- Replace `YourUsername` with your GitHub username -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hak3601&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hak3601&layout=compact&theme=radical) 
 
 ---
 
