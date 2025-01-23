@@ -43,12 +43,6 @@ In addition to my research, I am passionate about:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hak3601&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hak3601&layout=compact&theme=radical) 
-
----
-
 ## 📢 How to Reach Me
 
 - **Email**: [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
