@@ -18,19 +18,11 @@ In addition to my research, I am passionate about:
 
 ---
 
-## 🔧 Skills and Tools
+## Experience
 
-### Programming Languages
-- **Python** 🐍
-- **C++** 💻
-- **Java** ☕
-- **HTML/CSS/JavaScript** 🌐
-
-### Tools and Frameworks
-- **TensorFlow**
-- **PyTorch**
-- **Scikit-learn**, **pandas**, **NumPy**
-- **Git/GitHub**
+### Undergraduate Reserch Student
+Data Mining And Intelligence Systems - DMAIS Lab
+2024 May ~ present
 
 ---
 
