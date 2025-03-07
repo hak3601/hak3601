@@ -75,8 +75,6 @@ A project focused on optimizing task difficulty in a dual-task balancing game to
 
 ## 💡 Fun Facts
 
-- 🚀 I enjoy solving challenging AI problems and exploring cutting-edge research.
-- 🌱 Currently learning advanced optimization techniques for machine learning models.
 - ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
 - 📸 Photography helps me find balance and stay creative.
 - 🎥 Movies and nature walks are my favorite ways to relax and recharge.
