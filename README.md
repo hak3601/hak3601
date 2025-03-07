@@ -20,9 +20,9 @@ In addition to my research, I am passionate about:
 
 ## Experience
 
-### Undergraduate Reserch Student
-Data Mining And Intelligence Systems - DMAIS Lab
-2024 May ~ present
+### Data Mining And Intelligence Systems - DMAIS Lab
+- Undergraduate Reserch Student
+- 2024 May ~ present
 
 ---
 
