@@ -7,6 +7,7 @@ I am currently studying **Computer Science and Engineering** at Chung-Ang Univer
 
 - **Data Mining**: Developing scalable and efficient models to extract meaningful insights from large datasets.
 - **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
+- **Trustworthy AI**: Exploring Fairness-aware Graph Mining Models
 - **Large Language Models (LLMs)**: Exploring how LLMs can be applied to graphs or graph data to uncover new insights and enable advanced applications.
 - **Human-Computer Interaction (HCI)**: Creating user-centric, data-informed systems to address real-world social challenges.
 
