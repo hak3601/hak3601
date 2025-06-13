@@ -53,13 +53,6 @@ A collection of reviews of the research papers I have studied, documented as Pow
 - Provided insights and analyses of methodologies and findings.
 - Used regularly in lab seminars to facilitate knowledge sharing.
 
-### 🎓 [University Exam Management System - UXAM](https://github.com/hak3601/OOP-course.git)
-A software system designed to simplify online exams and training for both students and professors using C++ and OOP principles. (Year 2 - Team Project)
-
-**Highlights:**
-- Implemented a dynamic difficulty engine (DDE) to adjust question difficulty based on student performance.
-- Enabled professors to create exams and monitor their progress effortlessly.
-- Provided students with tools to take exams, train for exams, and create practice exams for peers.
 
 ### 🎮 [HIM-24: Model-Based Game Difficulty Optimization](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
 A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
