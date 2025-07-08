@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-## About Me 👨‍💻
 <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" alt="My Profile Picture" width="450"/>
+## About Me 👨‍💻
 
 ### Research Interests
 I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. My primary focus lies in:
