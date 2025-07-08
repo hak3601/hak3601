@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-<img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" alt="My Profile Picture" width="450"/>
+<img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" alt="My Profile Picture" width="350"/>
+
 ## About Me 👨‍💻
 
 ### Research Interests
