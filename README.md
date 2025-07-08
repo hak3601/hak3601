@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 
-| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="150"> | **Name**: June<br>**Education**: Chung-Ang University, Dept. of Software<br>**Interest**: Knowledge Graph, AI, RL |
+| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="450"> | **Name**: June<br>**Education**: Chung-Ang University, Dept. of Software<br>**Interest**: Knowledge Graph, AI, RL |
 |--------------------------|-----------------------------------------------------------------------|
 
 
