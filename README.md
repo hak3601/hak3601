@@ -1,14 +1,15 @@
 # Welcome to My GitHub Profile! 👋
 
 
-| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="450"> | **Name**: June<br>**Education**: Chung-Ang University, Dept. of Software<br>**Interest**: Knowledge Graph, AI, RL |
+| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="150"> | **Name**: June<br>**Education**: Chung-Ang University, School of Software<br>**Interest**: Trustworthy AI, RecSys |
 |--------------------------|-----------------------------------------------------------------------|
 
 
 ## About Me 👨‍💻
 
+I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. 
+
 ### Research Interests
-I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. My primary focus lies in:
 
 - **Data Mining**: Developing scalable and efficient models to extract meaningful insights from large datasets.
 - **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
