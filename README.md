@@ -1,13 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="350" style="margin-right: 20px;">
-  <div>
-    <strong>Name:</strong> June<br>
-    <strong>Education:</strong> Chung-Ang University, Dept. of Software<br>
-    <strong>Interest:</strong> Trustworthy AI, RecSys
-  </div>
-</div>
+
+| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="150"> | **Name**: June<br>**Education**: Chung-Ang University, Dept. of Software<br>**Interest**: Knowledge Graph, AI, RL |
+|--------------------------|-----------------------------------------------------------------------|
 
 
 ## About Me 👨‍💻
