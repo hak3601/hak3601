@@ -1,6 +1,14 @@
 # Welcome to My GitHub Profile! 👋
 
-<img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" alt="My Profile Picture" width="350"/>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="350" style="margin-right: 20px;">
+  <div>
+    <strong>Name:</strong> June<br>
+    <strong>Education:</strong> Chung-Ang University, Dept. of Software<br>
+    <strong>Interest:</strong> Trustworthy AI, RecSys
+  </div>
+</div>
+
 
 ## About Me 👨‍💻
 
