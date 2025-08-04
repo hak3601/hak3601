@@ -11,7 +11,6 @@ I am currently studying **Computer Science and Engineering** at Chung-Ang Univer
 
 ### Research Interests
 
-- **Data Mining**: Developing scalable and efficient models to extract meaningful insights from large datasets.
 - **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
 - **Trustworthy AI**: Exploring Fairness-aware Graph Mining Models.
 - **Large Language Models (LLMs)**: Exploring how LLMs can be applied to graphs or graph data to uncover new insights and enable advanced applications.
@@ -35,17 +34,9 @@ In addition to my research, I am passionate about:
 
 ## 🌟 Current Focus
 
-- Building advanced models for **Recommender Systems**.
-- Investigating how **LLMs** can be utilized in **graph-based applications** for novel insights and solutions.
-- Exploring **HCI-driven solutions** to improve technology's impact on society.
-- Contributing to impactful and collaborative tech projects.
-
----
-
-## 📢 How to Reach Me
-
-- **Email**: [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
-- **LinkedIn**: [HTET ARKAR](https://linkedin.com/in/h-arkar) <!-- Replace with your LinkedIn profile link -->
+- Developing fairness-aware models for Graph Learning and Recommender Systems.
+- Investigating how Large Language Models (LLMs) can support graph-based reasoning and fairness analysis.
+- Exploring Human-Centered AI (HCAI) approaches to ensure equitable and responsible technology use.
 
 ---
 
@@ -77,6 +68,13 @@ In addition to my research, I am passionate about:
 - ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
 - 📸 Photography helps me find balance and stay creative.
 - 🎥 Movies and nature walks are my favorite ways to relax and recharge.
+
+---
+
+## 📢 How to Reach Me
+
+- **Email**: [hak3601@cau.ac.kr](mailto:hak3601@cau.ac.kr) <!-- Replace with your email -->
+- **LinkedIn**: [HTET ARKAR](https://linkedin.com/in/h-arkar) <!-- Replace with your LinkedIn profile link -->
 
 ---
 
