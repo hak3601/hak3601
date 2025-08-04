@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile! 👋
 
 
-| <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="150"> | **Name**: June<br>**Education**: Chung-Ang University, School of Software<br>**Interest**: Trustworthy AI, RecSys |
+| HTET ARKAR (태아카) <br> Undergraduate <br> School of Computer Science and Engineering <br> Chung-Ang University | <img src="https://github.com/hak3601/hak3601/blob/main/Profile.JPG" width="150"> | 
 |--------------------------|-----------------------------------------------------------------------|
 
 
 ## About Me 👨‍💻
 
-I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. 
+I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Undergraduate Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. 
 
 ### Research Interests
 
@@ -51,25 +51,24 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-### 📖 [My Paper Reviews](https://github.com/hak3601/paper-review.git)
-A collection of reviews of the research papers I have studied, documented as PowerPoint slides.
+### ⚖️ [Fairness-aware Recommender Systems](#) (2025)
+>  A project focused on tackling biases in recommender systems. (CUAI Summer Project) 
 
-**Highlights:**
-- Organized and documented summaries of various research papers for note-taking and presentations.
-- Provided insights and analyses of methodologies and findings.
-- Used regularly in lab seminars to facilitate knowledge sharing.
-
-
-### 🎮 [HIM-24: Model-Based Game Difficulty Optimization](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
-A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
-
-**Highlights:**
-- Developed a predictive model to adjust game difficulty dynamically based on player performance.
-- Designed a 3D balance-maintenance game featuring dual-disc control mechanisms.
-- Conducted experiments using repeated measures ANOVA to evaluate performance metrics.
-- Achieved a predictive model performance with **MSE**: 7.2992 and **R² Score**: 0.7657.
+### 🎮 [HIM-24: Model-Based Game Difficulty Optimization](https://github.com/hak3601/HIM-24/blob/main/paper.pdf) (2024)
+> A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
+>
+> **Highlights:**
+> - Developed a predictive model to adjust game difficulty dynamically based on player performance.
+> - Designed a 3D balance-maintenance game featuring dual-disc control mechanisms.
+> - Conducted experiments using repeated measures ANOVA to evaluate performance metrics.
+> - Achieved a predictive model performance with **MSE**: 7.2992 and **R² Score**: 0.7657.
 
 #### 🔍 Comming Soon...
+
+---
+## Study
+
+- CS224N: Natural Language Processing with Deep Learning ([Link](https://github.com/hak3601/NLP-CS224n.git))
 
 ---
 
