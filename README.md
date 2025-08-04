@@ -42,10 +42,10 @@ In addition to my research, I am passionate about:
 
 ## 📂 Featured Projects
 
-### ⚖️ [Fairness-aware Recommender Systems](#) (2025)
+### ⚖️ [Fairness-aware Recommender Systems (2025)](https://github.com/hak3601/CUAI-RecSys.git) 
 >  A project focused on tackling biases in recommender systems. (CUAI Summer Project) 
 
-### 🎮 [HIM-24: Model-Based Game Difficulty Optimization](https://github.com/hak3601/HIM-24/blob/main/paper.pdf) (2024)
+### 🎮 [HIM-24: Model-Based Game Difficulty Optimization (2024)](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
 > A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
 >
 > **Highlights:**
