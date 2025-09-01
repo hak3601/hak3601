@@ -59,7 +59,8 @@ In addition to my research, I am passionate about:
 ---
 ## Study
 
-- CS224N: Natural Language Processing with Deep Learning ([Link](https://github.com/hak3601/NLP-CS224n.git))
+- Stanford CS224N: Natural Language Processing with Deep Learning ([Link](https://github.com/hak3601/NLP-CS224n.git))
+- Stanford CS224W: Machine Learning with Graphs | 2021 ([Website](https://snap.stanford.edu/class/cs224w-2020/))([YouTube](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=klvqjJe6mnROE7KP))
 
 ---
 
