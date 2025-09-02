@@ -26,8 +26,9 @@ In addition to my research, I am passionate about:
 
 ## Experience
 
-### [Data Mining And Intelligence Systems - DMAIS Lab](https://sites.google.com/view/cau-dmis-lab/team#h.ofxovz4w4q69)
+### [Machine INtelligence & Data Science Laboratory - MINDS Lab](https://sites.google.com/view/cau-minds-lab/home?authuser=0)
 - Undergraduate Research Student
+- Interest: Trustworthy AI
 - 2024 May ~ present
 
 ---
