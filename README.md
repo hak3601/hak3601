@@ -7,12 +7,12 @@
 
 ## About Me 👨‍💻
 
-I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Undergraduate Research Student** at the **Data Mining And Intelligence Systems (DMAIS) Lab**. 
+I am currently studying **Computer Science and Engineering** at Chung-Ang University and working as a **Undergraduate Research Student** at the **MINDS Lab**. 
 
 ### Research Interests
 
 - **Recommender Systems**: Enhancing user experiences through personalized recommendations by tackling challenges such as real-time processing and large-scale data.
-- **Trustworthy AI**: Exploring Fairness-aware Graph Mining Models.
+- **Responsible AI**: Exploring Fair and Unbiased AI Models.
 - **Large Language Models (LLMs)**: Exploring how LLMs can be applied to graphs or graph data to uncover new insights and enable advanced applications.
 - **Human-Computer Interaction (HCI)**: Creating user-centric, data-informed systems to address real-world social challenges.
 
@@ -42,9 +42,6 @@ In addition to my research, I am passionate about:
 ---
 
 ## 📂 Featured Projects
-
-### ⚖️ [Fairness-aware Recommender Systems (2025)](https://github.com/hak3601/CUAI-RecSys.git) 
->  A project focused on tackling biases in recommender systems. (CUAI Summer Project) 
 
 ### 🎮 [HIM-24: Model-Based Game Difficulty Optimization (2024)](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
 > A project focused on optimizing task difficulty in a dual-task balancing game to enhance player experience. (Year 2 - HCI Team Project)
